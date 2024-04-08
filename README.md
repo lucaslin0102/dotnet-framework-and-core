@@ -22,7 +22,11 @@
 **.NET Core DLL invocation**
 ```
 dotnet "[path]\sonar-scanner-6.2.0.85879-net\SonarScanner.MSBuild.dll" begin /k:"s4net-dll-analysis" /d:sonar.token="<token>"
+```
+```
 dotnet build [path]\dotnet-framework-and-core\dotnet-framework-and-core.sln --no-incremental
+```
+```
 dotnet "[path]\sonar-scanner-6.2.0.85879-net\SonarScanner.MSBuild.dll" end /d:sonar.token="<token>" 
 ```
 
