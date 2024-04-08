@@ -2,7 +2,7 @@
 
 [SonarScanner for .NET](https://docs.sonarsource.com/sonarqube/latest/analyzing-source-code/scanners/sonarscanner-for-dotnet/)
 
-> This is to demonstrate that you can analysis both .NET Framework and .NET Core targeted projects with all scanner versions for .NET Framework, .NET Core and .NET Core global tool
+> This is to demonstrate that you can analyze both .NET Framework and .NET Core targeted projects with **ALL** scanner versions for .NET Framework, .NET Core, and .NET Core global tool.
 
 - NET Standard Project (Targeting .NET Standard 2.1)
 - NET Core Project (Targeting .NET Core 3.1)
